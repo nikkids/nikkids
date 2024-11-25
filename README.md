@@ -1,4 +1,4 @@
-<h1>Hello, Im Nikki! <br/><a href="https://github.com/nikkids">Data Science</a> and <a href=https://www.linkedin.com/in/jibril-nikki-ghiffari-246385253/>Programmer</a>
+<h1>Hello, Im Nikki! <br/><a href="https://github.com/nikkids">Data Science</a> and <a href=https://www.linkedin.com/in/jibril-nikki-ghiffari-246385253/>Programmer</a></h1>
   
 - <h2>👨‍💻 My Projects:</h2>
 - <b>Data Related Field</b>
