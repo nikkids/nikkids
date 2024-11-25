@@ -3,6 +3,8 @@
 - <h2>👨‍💻 My Projects:</h2>
 - <b>Data Related Field</b>
   - [Global Temperature Data Analysis](https://github.com/nikkids/GlobalTemperature)
+  - [Customer Churn Analysis](https://github.com/nikkids/Proj)
+  - [Python For Data Analysis](https://github.com/nikkids/PythonDS)
 
 - <h2>My Notes📔</h2>
 [Notebook](https://1drv.ms/o/c/036e35974384c508/ErUyeC4frGJJsSrfO0XeqTUBjL0sHu94yAsnr0O41aJg5g)
