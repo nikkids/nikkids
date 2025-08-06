@@ -5,9 +5,13 @@
   - [Global Temperature Data Analysis](https://github.com/nikkids/GlobalTemperature)
   - [Customer Churn Analysis](https://github.com/nikkids/Proj)
   - [Python For Data Analysis](https://github.com/nikkids/PythonDS)
+  - [Indonesia Sentiment and Hate Speech Geolocation](https://github.com/nikkids/Indonesia-Geolocation)
+  - [Social Media Scraper](https://github.com/nikkids/Scraping-Code)
+  - [Election and Political Sentiment Analysis](https://github.com/nikkids/Indonesian-Political-Sentiment)
 - <b>Web Application💻</b>
   - [Personal Web](https://jibrilnikki.netlify.app/)
   - [Card Matching Game](https://github.com/nikkids/CardMatchingGame)
+  - [Battle Simulator](https://github.com/nikkids/Battle-Simulation)
 
 - <h2>📔 My Notes</h2>
 [Notebook](https://1drv.ms/o/c/036e35974384c508/ErUyeC4frGJJsSrfO0XeqTUBjL0sHu94yAsnr0O41aJg5g)
