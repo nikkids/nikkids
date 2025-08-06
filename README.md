@@ -8,6 +8,7 @@
   - [Indonesia Sentiment and Hate Speech Geolocation](https://github.com/nikkids/Indonesia-Geolocation)
   - [Social Media Scraper](https://github.com/nikkids/Scraping-Code)
   - [Election and Political Sentiment Analysis](https://github.com/nikkids/Indonesian-Political-Sentiment)
+  - [Coding Camp Projects](https://github.com/nikkids/CodingCamp)
 - <b>Other Application💻</b>
   - [Personal Web](https://jibrilnikki.netlify.app/)
   - [Card Matching Game](https://github.com/nikkids/CardMatchingGame)
