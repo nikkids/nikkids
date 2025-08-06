@@ -10,7 +10,7 @@
   - [Customer Churn Analysis](https://github.com/nikkids/Customer-Churn-Analysis)
   - [Python For Data Analysis](https://github.com/nikkids/PythonDS)
 
-- <b>UI/UX Design🎨<\b>
+- <b>UI/UX Design🎨</b>
   - [IBID](https://www.figma.com/design/OrTi1cuVmE0r29QQ5vdkXP/Project-IBID?node-id=0-1&t=6EyLAWTeNV96Phyj-1)
   - [MediHub](https://www.figma.com/design/yu26rycQSQomEe5lqFatBb/MedIhub?node-id=0-1&t=2nlG25sb8lMwqo7J-1)
   - [Bebersih](https://www.figma.com/design/0NYdDwOvH1TPrp6vXHKmIt/Prototype-Bebersih?node-id=0-1&t=aAf5MqMDrvAPZE4p-1)
