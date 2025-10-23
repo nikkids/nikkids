@@ -1,7 +1,8 @@
 <h1>Hello, Im Nikki! <br/><a href="https://github.com/nikkids">Data Analyst</a> and <a href=https://www.linkedin.com/in/jibril-nikki-ghiffari-246385253/>Programmer</a></h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=33FF33&center=true&vCenter=true&width=435&lines=Hello,+I'm+Nikki!;I'm+a+Data+Analyst...;...and+a+Programmer.)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkids&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - <h2>👨‍💻 My Projects</h2>
 - <b>Data Related Field📊</b>
   - [Coding Camp Projects](https://github.com/nikkids/CodingCamp)
