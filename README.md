@@ -6,18 +6,14 @@
 
 </div>
 
-┌──────────────────────────┐
-│                          │
-│  👋 Hey Nikki!           │
-│                          │
-│              Hey! 👋     │
-│                          │
-│  What are you building?  │
-│                          │
-│              Something   │
-│              cool 😎     │
-│                          │
-└──────────────────────────┘
+$ whoami
+nikki
+
+$ skills
+Have a look around!
+
+$ currently_building
+something interesting...
 
 ### 🛠️ Tech Stack
 
