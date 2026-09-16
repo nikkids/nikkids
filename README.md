@@ -7,7 +7,6 @@
 </div>
 
 
-### 🛠️ Tech Stack
 
 **Languages & Data**
 
