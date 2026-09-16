@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-frame=true&margin-w=8)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nikkids&theme=flat&no-frame=true&margin-w=8)
 
 - <h2>👨‍💻 My Projects</h2>
 - <b>Data Related Field📊</b>
