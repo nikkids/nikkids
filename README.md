@@ -6,14 +6,6 @@
 
 </div>
 
-$ whoami
-nikki
-
-$ skills
-Have a look around!
-
-$ currently_building
-something interesting...
 
 ### 🛠️ Tech Stack
 
