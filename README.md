@@ -1,10 +1,12 @@
 <h1>Hello, Im Nikki! <br/><a href="https://github.com/nikkids">Data Analyst</a> and <a href=https://www.linkedin.com/in/jibril-nikki-ghiffari-246385253/>Programmer</a></h1>
-### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=flat&no-frame=true&margin-w=8)
+
 - <h2>👨‍💻 My Projects</h2>
 - <b>Data Related Field📊</b>
   - [Coding Camp Projects](https://github.com/nikkids/CodingCamp)
