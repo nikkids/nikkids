@@ -6,6 +6,19 @@
 
 </div>
 
+┌──────────────────────────┐
+│                          │
+│  👋 Hey Nikki!           │
+│                          │
+│              Hey! 👋     │
+│                          │
+│  What are you building?  │
+│                          │
+│              Something   │
+│              cool 😎     │
+│                          │
+└──────────────────────────┘
+
 ### 🛠️ Tech Stack
 
 **Languages & Data**
