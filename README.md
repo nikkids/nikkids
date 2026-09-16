@@ -1,5 +1,8 @@
 <h1>Hello, Im Nikki! <br/><a href="https://github.com/nikkids">Data Analyst</a> and <a href=https://www.linkedin.com/in/jibril-nikki-ghiffari-246385253/>Programmer</a></h1>
 
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikki&fontSize=60&animation=fadeIn)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Analytics+%7C+Engineering;Building+things+with+data;Python+%7C+SQL+%7C+Machine+Learning)](https://git.io/typing-svg)
