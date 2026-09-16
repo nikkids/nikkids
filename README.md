@@ -1,6 +1,3 @@
-<h1>Hello, Im Nikki! <br/><a href="https://github.com/nikkids">Data Analyst</a> and <a href=https://www.linkedin.com/in/jibril-nikki-ghiffari-246385253/>Programmer</a></h1>
-
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikki&fontSize=60&animation=fadeIn)
 
 <div align="center">
